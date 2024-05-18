@@ -22,8 +22,8 @@ Contributions are always welcome!
 
    Once you have forked the repository, clone it to your local development environment using the following command:
 
-   ```sh
-   [(https://github.com/Shannu3766/Medical-Mangement-System.git)](https://github.com/Shannu3766/Medical-Mangement-System.git)
+   ```bash
+      git clone https://github.com/Shannu3766/Medical-Mangement-System.git
    ```
 
 2. **install the streamlit package**
