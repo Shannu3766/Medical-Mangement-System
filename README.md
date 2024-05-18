@@ -34,7 +34,7 @@ Contributions are always welcome!
 
 4. **Make Your Changes**
 
-   Now it's time to work on your contributions!
+   Make the neccessary changes or upgrade if required
 
 5. **Run on your own local server**
    
