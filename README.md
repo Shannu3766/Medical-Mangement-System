@@ -11,3 +11,33 @@ The Medical Management System is a comprehensive application designed to manage 
 * Delete Medicine: Remove medicines from the inventory.
 * Add Bill: Create new bills for transactions.
 * Search Bills: Search and view past bills.
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+1. **Clone the Repository**
+
+   Once you have forked the repository, clone it to your local development environment using the following command:
+
+   ```sh
+   (https://github.com/Shannu3766/Medical-Mangement-System.git)
+   ```
+
+2. **install the streamlit package**
+   
+   ```sh
+   pip install streamlit
+   ```
+
+4. **Make Your Changes**
+
+   Now it's time to work on your contributions!
+
+5. **Run on your own local server**
+   
+   ```sh
+   streamlit run Medical_Management_system.py
+   ```
