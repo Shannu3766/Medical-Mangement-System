@@ -158,12 +158,12 @@ class LoginSystem:
         st.dataframe(admins_df)
 
     def user_name_validation(self, input_string):
-        special_chars = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
+        # special_chars = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
         if ' ' in input_string:
             return False
-        for char in input_string:
-            if char in special_chars:
-                return False
+        # for char in input_string:
+        #     if char in special_chars:
+        #         return False
         return True
 
     def add_medicine(self):
