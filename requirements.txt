@@ -1,28 +1,6 @@
-altair @ file:///work/perseverance-python-buildout/croot/altair_1698866618831/work
-attrs @ file:///croot/attrs_1729089401488/work
-blinker @ file:///work/perseverance-python-buildout/croot/blinker_1698846408677/work
-Bottleneck @ file:///croot/bottleneck_1709069899917/work
-Brotli @ file:///croot/brotli-split_1714483155106/work
-cachetools @ file:///croot/cachetools_1713977085444/work
-certifi @ file:///croot/certifi_1725551672989/work/certifi
 chardet==5.2.0
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-click @ file:///work/perseverance-python-buildout/croot/click_1698845879718/work
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
-GitPython @ file:///croot/gitpython_1720455034730/work
-idna @ file:///croot/idna_1714398848350/work
-Jinja2 @ file:///croot/jinja2_1716993405101/work
-jsonschema @ file:///croot/jsonschema_1728486696720/work
-jsonschema-specifications @ file:///work/perseverance-python-buildout/croot/jsonschema-specifications_1701731664072/work
-markdown-it-py @ file:///work/perseverance-python-buildout/croot/markdown-it-py_1698846045803/work
-MarkupSafe @ file:///work/perseverance-python-buildout/croot/markupsafe_1707342994941/work
-mdurl @ file:///work/perseverance-python-buildout/croot/mdurl_1698845653285/work
 mkl-service==2.4.0
-mkl_fft @ file:///croot/mkl_fft_1725370245198/work
-mkl_random @ file:///croot/mkl_random_1725370241878/work
 mysql-connector==2.2.9
-numexpr @ file:///work/perseverance-python-buildout/croot/numexpr_1698871031164/work
-numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
 package-name==0.1
 pandas==2.2.2
 protobuf==4.25.3
@@ -30,3 +8,4 @@ reportlab==4.2.5
 setuptools==75.1.0
 streamlit-option-menu==0.4.0
 wheel==0.44.0
+numpy==1.24.3
