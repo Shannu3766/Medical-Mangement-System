@@ -42,7 +42,7 @@ class LoginSystem:
 
 
     def createdb(self):
-        self.mycn = sqlct.connect(host="localhost", user="root", password="shannu", database="MedicalManagement")
+        self.mycn = sqlct.connect(host="sql12.freesqldatabase.com", user="sql12738529", password="A5zw3LV1Qe", database="sql12738529")
         self.mycur = self.mycn.cursor()
         self.mycur.execute("SHOW TABLES LIKE 'users'")
         result = self.mycur.fetchone()
