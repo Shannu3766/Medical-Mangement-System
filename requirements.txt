@@ -3,3 +3,4 @@ mysql-connector-python
 pandas
 numpy
 reportlab
+streamlit_option_menu
