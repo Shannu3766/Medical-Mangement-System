@@ -2,6 +2,5 @@ asyncio
 streamlit
 mysql-connector-python
 pandas
-streamlit-option-menu
 sqlite3
 reportlab
