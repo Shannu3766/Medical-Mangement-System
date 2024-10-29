@@ -1,6 +1,5 @@
-asyncio
 streamlit
 mysql-connector-python
 pandas
-sqlite3
+numpy
 reportlab
